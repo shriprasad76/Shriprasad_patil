@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/shriprasad76/Shriprasad_patil/blob/main/bg.png)
 <h1 align="center">Hi 👋, I'm Shriprasad Patil</h1>
 <h3 align="center">B-Tech Computer Science (AIML) Student </h3>
